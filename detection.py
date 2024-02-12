@@ -26,7 +26,7 @@ colors = np.random.uniform(0, 255, size=(100, 3))
 
 def image_sender():
     sender = "cfpredictor123@gmail.com"
-    password = "qtlvbndfudxrvqrb"
+    password = input()
     reciever = "pagalavanpagal017@gmail.com"
     body = f"""
                           GARBAGE FOUND...
