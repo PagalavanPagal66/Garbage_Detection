@@ -23,16 +23,6 @@ With the increasing concerns over environmental pollution, effective waste manag
 - Customizable email templates and recipient lists.
 - User-friendly interface for configuration and monitoring.
 
-## Installation
-
-To use this system, follow these steps:
-
-1. Clone the repository to your local machine:
-
-git clone https://github.com/username/repository.git
-
-2. Configure the SMTP settings and email templates according to your preferences.
-
 ## Usage
 
 1. Run the main script:
